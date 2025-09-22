@@ -89,12 +89,12 @@ Analysis of two main datasets focusing on query intent classification and sentim
 - **Shortest Response**: {intent_analysis['min_response_length']} characters
 - **Longest Response**: {intent_analysis['max_response_length']} characters
 
+![Intent Analysis](data_visualizations/intent_analysis.png)
+
 ### Query Sentiment Dataset
 - **Total Records**: {sentiment_analysis['total_records']:,}
 - **Columns**: {', '.join(sentiment_analysis['columns'])}
 - **Unique Sentiments**: {sentiment_analysis['unique_sentiments']}
-
-![Intent Analysis](data_visualizations/intent_analysis.png)
 
 #### Sentiment Distribution
 """

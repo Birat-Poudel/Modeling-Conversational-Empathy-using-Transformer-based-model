@@ -41,12 +41,12 @@ Analysis of two main datasets focusing on query intent classification and sentim
 - **Shortest Response**: 57 characters
 - **Longest Response**: 2472 characters
 
+![Intent Analysis](data_visualizations/intent_analysis.png)
+
 ### Query Sentiment Dataset
 - **Total Records**: 30,078
 - **Columns**: query, sentiment
 - **Unique Sentiments**: 3
-
-![Intent Analysis](data_visualizations/intent_analysis.png)
 
 #### Sentiment Distribution
 - **Negative**: 10,525 queries (35.0%)
